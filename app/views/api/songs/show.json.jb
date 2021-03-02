@@ -1,1 +1,7 @@
-"the show"
+{
+  id: @songs.id, 
+  title: @songs.title, 
+  artist: @songs.artist, 
+  album: @songs.album, 
+  year: @songs.year, 
+}
